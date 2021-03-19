@@ -2,7 +2,7 @@ Django==1.11.29
 django-annoying==0.8.1
 django-filter==0.12.0
 django-transaction-hooks==0.2
-djangorestframework==3.3.2
+djangorestframework==3.11.2
 dnspython==1.11.1
 ipython==2.3.1
 ipython-genutils==0.1.0
